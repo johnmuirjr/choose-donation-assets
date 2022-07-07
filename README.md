@@ -11,15 +11,15 @@ that will maximize capital losses.)
 
 This program requires Go 1.18 or later.
 
-## Building
+## Installation
 
-Run the standard build command:
+Use `go install` thus:
 
 ```sh
-go build
+go install github.com/johnmuirjr/choose-donation-assets
 ```
 
-which will generate the `choose-donation-assets` executable.
+which will install the `choose-donation-assets` executable.
 
 ## Use
 
